@@ -4,3 +4,4 @@ scope:
 path: ""
 values:
 favicon: "/favicon.ico"
+theme: jekyll-theme-minimal
