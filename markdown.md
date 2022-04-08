@@ -16,3 +16,6 @@ This is where you can put
 multiple lines
 of code.
 ```
+
+Here is a screenshot:
+![Image](Capture.JPG)
