@@ -18,4 +18,4 @@ of code.
 ```
 
 Here is a screenshot:
-![Image](Capture.JPG)
+![Image](images/Capture.JPG)
