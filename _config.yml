@@ -3,5 +3,9 @@ defaults:
 scope:
 path: ""
 values:
-favicon: "/favicon.ico"
-theme: jekyll-theme-minimal
+favicon: "favicon.ico"
+
+nav:
+- title: "CSE 15L"
+url: "/"
+icon: "favicon.ico"
