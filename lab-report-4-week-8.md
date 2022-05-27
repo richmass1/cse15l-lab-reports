@@ -7,15 +7,18 @@
 ## Expected Output
 To get the expected results for the snippets, I used [this interactive markdown renderer](https://spec.commonmark.org/dingus/) from commonmark.org, lovingly called "dingus".
 
-According to Dingus, snippet 1 should produce only 1 link: `` `google.com``
+According to Dingus, snippet 1 should produce 3 links: 
+- `` `google.com``
+- `google.com`
+- `ucsd.edu`
 
-Snippet 2 should produce 3:
+Snippet 2 should produce 3 links:
 
 - `a.com`
 - `a.com(())`
 - `example.com`
 
-And snippet 3 should produce 1: `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule`.
+And snippet 3 should produce just 1: `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule`.
 
 
 ## Test code
