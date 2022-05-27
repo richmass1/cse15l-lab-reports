@@ -20,7 +20,7 @@ And snippet 3 should produce 1: `https://sites.google.com/eng.ucsd.edu/cse-15l-s
 
 ## Test code
 
-![tests for the snippets](/images/snippet-tests.png)
+![tests for the snippets](/images/snippet-tests1.png)
 
 These are the tests that I added to MarkdownParseTest.java.
 
